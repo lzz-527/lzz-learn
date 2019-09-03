@@ -1,2 +1,3 @@
 # lzz-learn
-学习
+第一次学习
+hello world！
